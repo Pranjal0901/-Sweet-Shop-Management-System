@@ -117,4 +117,3 @@ Frontend runs on: http://localhost:5173
 ## Author
 
 Pranjal Singh 
-This project is built as part of the Incubyte TDD Kata Assessment.
